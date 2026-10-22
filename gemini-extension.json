@@ -1,0 +1,12 @@
+{
+  "name": "globalentity",
+  "version": "1.0.0",
+  "description": "Official company data from 66 national business registers and the GLEIF LEI index: company search, VAT/EORI/LEI verification, ownership chain, insolvency status, sanctions screening and VAT rates. Read-only, every answer cites the official source.",
+  "mcpServers": {
+    "globalentity": {
+      "httpUrl": "https://www.globalentityapi.com/mcp",
+      "timeout": 60000
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
